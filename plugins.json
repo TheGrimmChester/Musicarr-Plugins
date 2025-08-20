@@ -1,0 +1,10 @@
+[
+  {
+    "name": "musicarr-file-naming-plugin",
+    "version": "1.0.0",
+    "author": "TheGrimmChester",
+    "description": "Advanced file naming and organization plugin with pattern support",
+    "repository_url": "https://github.com/TheGrimmChester/musicarr-file-naming-plugin",
+    "tags": ["file-naming", "organization", "patterns"]
+  }
+]
